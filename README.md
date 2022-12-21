@@ -17,6 +17,32 @@ The construction of a detailed computational model of a microtubule will make it
 4. Aging
 
 ## Model description
+Two main coordinate systems are used in this project:
 
 ![Molecular coordinate system (black)](https://github.com/vexing-shusher/microtubule-dynamics-simulation/blob/main/materials/mtpic1.png)
 ![Monomer coordinate system (blue)](https://github.com/vexing-shusher/microtubule-dynamics-simulation/blob/main/materials/mtpic2.png)
+
+The model pipeline can be described by the following diagram:
+
+![Model diagram](https://github.com/vexing-shusher/microtubule-dynamics-simulation/blob/main/materials/prog.png)
+
+In essense, it solves the following system of equations (using 4th order Runge-Kutta algorithm):
+
+![Model equations](https://github.com/vexing-shusher/microtubule-dynamics-simulation/blob/main/materials/eq1.png)
+
+The parameters of the model can be found inside the .cpp file, as well as in the following table:
+
+![Model parameters](https://github.com/vexing-shusher/microtubule-dynamics-simulation/blob/main/materials/pars.png)
+
+# Experiments
+
+## Experiment 1: Einstein's formula for Brownian motion
+
+It is known from the Einstein's formula for Brownian motion that a linear dependence of the dispersion on time should be observed for both translational and rotational coordinates (see equations below). 
+
+![Einstein's formula](https://github.com/vexing-shusher/microtubule-dynamics-simulation/blob/main/materials/eq2.png)
+
+The conducted experiment demonstrates that this is indeed true for the model presented here.
+
+![Einstein's formula experiment](https://github.com/vexing-shusher/microtubule-dynamics-simulation/blob/main/materials/tabD.png)
+
