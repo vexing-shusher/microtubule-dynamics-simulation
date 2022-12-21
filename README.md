@@ -46,3 +46,11 @@ The conducted experiment demonstrates that this is indeed true for the model pre
 
 ![Einstein's formula experiment](https://github.com/vexing-shusher/microtubule-dynamics-simulation/blob/main/materials/tabD.png)
 
+## Experiment 2: Tetramer -- free bottom monomer
+
+## Experiment 3: Tetramer -- fixed bottom monomer
+
+## Experiment 4: Tetramer -- lateral bounds are active
+
+To be continued
+
