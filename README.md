@@ -21,6 +21,8 @@ The construction of a detailed computational model of a microtubule will make it
 ## Model description
 Two main coordinate systems are used in this project:
 
+<img src="https://github.com/vexing-shusher/microtubule-dynamics-simulation/blob/main/materials/mtpic1.png" width="200">
+
 ![Molecular coordinate system (black)](https://github.com/vexing-shusher/microtubule-dynamics-simulation/blob/main/materials/mtpic1.png | width=200)
 ![Monomer coordinate system (blue)](https://github.com/vexing-shusher/microtubule-dynamics-simulation/blob/main/materials/mtpic2.png){ width: 200px; }
 
