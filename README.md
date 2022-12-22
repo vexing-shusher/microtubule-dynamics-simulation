@@ -54,35 +54,34 @@ In this experiment, as well as in the following ones, the dynamics of a tetramer
 
 Here are the equilibrium coordinates of the monomers in the tetramer (bottom monomer is free).
 
-![Free ends1](https://github.com/vexing-shusher/microtubule-dynamics-simulation/blob/main/materials/fe_xz.png){ width: 200px; }
-![Free ends2](https://github.com/vexing-shusher/microtubule-dynamics-simulation/blob/main/materials/fe_yz.png){ width: 200px; }
+<img src="https://github.com/vexing-shusher/microtubule-dynamics-simulation/blob/main/materials/fe_xz.png" width="400">
+<img src="https://github.com/vexing-shusher/microtubule-dynamics-simulation/blob/main/materials/fe_yz.png" width="400">
 
 ## Experiment 3: Tetramer -- fixed bottom monomer
 
 Here is how the coordinates of the tetramer change with time if the bottom monomer is fixed.
 
 ### 3j6e (all-GTP monomers)
-![Fixed ends1](https://github.com/vexing-shusher/microtubule-dynamics-simulation/blob/main/materials/3j6e_xz.png){ width: 200px; }
-![Fixed ends2](https://github.com/vexing-shusher/microtubule-dynamics-simulation/blob/main/materials/3j6e_yz.png){ width: 200px; }
+<img src="https://github.com/vexing-shusher/microtubule-dynamics-simulation/blob/main/materials/3j6e_xz.png" width="400">
+<img src="https://github.com/vexing-shusher/microtubule-dynamics-simulation/blob/main/materials/3j6e_yz.png" width="400">
 
 ### 3j6f (GTP-GDP monomers)
-![Fixed ends3](https://github.com/vexing-shusher/microtubule-dynamics-simulation/blob/main/materials/3j6f_xz.png){ width: 200px; }
-![Fixed ends4](https://github.com/vexing-shusher/microtubule-dynamics-simulation/blob/main/materials/3j6f_yz.png){ width: 200px; }
+<img src="https://github.com/vexing-shusher/microtubule-dynamics-simulation/blob/main/materials/3j6f_xz.png" width="400">
+<img src="https://github.com/vexing-shusher/microtubule-dynamics-simulation/blob/main/materials/3j6f_yz.png" width="400">
 
 ### A microtubule fragment consisting of tetramers without lateral bounds
-![Fixed ends5](https://github.com/vexing-shusher/microtubule-dynamics-simulation/blob/main/materials/mtnb.png){ width: 200px; }
-
+<img src="https://github.com/vexing-shusher/microtubule-dynamics-simulation/blob/main/materials/mtnb.png" width="400">
 
 ## Experiment 4: Tetramer -- lateral bounds are active
 Finally, here are the equilibrium conformational angles for the tetramers when the lateral bounds are active.
 
 ### 3j6e (all-GTP monomers)
-![Fixed ends1](https://github.com/vexing-shusher/microtubule-dynamics-simulation/blob/main/materials/3j6e_bnb_xz.png){ width: 200px; }
-![Fixed ends2](https://github.com/vexing-shusher/microtubule-dynamics-simulation/blob/main/materials/3j6e_bnb_yz.png){ width: 200px; }
+<img src="https://github.com/vexing-shusher/microtubule-dynamics-simulation/blob/main/materials/3j6e_bnb_xz.png" width="400">
+<img src="https://github.com/vexing-shusher/microtubule-dynamics-simulation/blob/main/materials/3j6e_bnb_yz.png" width="400">
 
 ### 3j6f (GTP-GDP monomers)
-![Fixed ends3](https://github.com/vexing-shusher/microtubule-dynamics-simulation/blob/main/materials/3j6f_bnb_xz.png){ width: 200px; }
-![Fixed ends4](https://github.com/vexing-shusher/microtubule-dynamics-simulation/blob/main/materials/3j6f_bnb_yz.png){ width: 200px; }
+<img src="https://github.com/vexing-shusher/microtubule-dynamics-simulation/blob/main/materials/3j6f_bnb_xz.png" width="400">
+<img src="https://github.com/vexing-shusher/microtubule-dynamics-simulation/blob/main/materials/3j6f_bnb_yz.png" width="400">
 
 # Conclusion
 1. The characteristic equilibrium time for the tetramer was determined to be 0.7 μs;
