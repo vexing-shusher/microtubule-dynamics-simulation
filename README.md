@@ -1,6 +1,8 @@
 # Simulation of stochastic dynamics of tubulin microtubules
 My Bachelor's degree project (Moscow State University, Dept. of Physics): microtubule dynamics simulation.
+
 Advisor: Y.M. Romanovsky
+
 Co-Advisor: N.B. Gudimchuk
 
 # Disclaimer
